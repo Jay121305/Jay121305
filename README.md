@@ -108,8 +108,8 @@ Tech: JavaScript
 ---
 
 ## 🤝 Let’s Connect
-- 💼 LinkedIn: https://linkedin.com/in/jay-gautam :contentReference[oaicite:3]{index=3}  
-- 🌐 Portfolio: https://jay-gautam-portfolio.vercel.app/ :contentReference[oaicite:4]{index=4}  
+- 💼 LinkedIn: https://linkedin.com/in/jay-gautam   
+- 🌐 Portfolio: https://jay-gautam-portfolio.vercel.app/ 
 - 📫 Email: jaygaautam@gmail.com  
 
 ---
