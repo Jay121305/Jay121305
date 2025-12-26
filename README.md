@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=I+build+deployable+systems.;Flutter+%7C+ML+%7C+Backend+%7C+Scalable+design.;Hackathons+%7C+Internships+Ready.;Code+with+impact+and+metrics." />
 </p>
 
----
 
 ## 🧠 Who Am I
 - 🎓 CSE Undergraduate @ **VIT Pune**  
