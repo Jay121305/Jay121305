@@ -23,8 +23,12 @@
 ⭐ GitHub Stars: **6+** :contentReference[oaicite:2]{index=2}
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api? username=Jay121305&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://streak-stats.demolab.com? user=Jay121305&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=Jay121305&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards. vercel.app/api/cards/stats?username=Jay121305&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel. app/api/cards/productive-time?username=Jay121305&theme=tokyonight" width="48%" />
 </p>
 ---
 
