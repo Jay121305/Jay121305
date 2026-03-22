@@ -128,7 +128,7 @@
   </picture>
 </div>
 
-> ⚡ **Note:** To activate the snake animation, add the workflow file from the included `.github/workflows/snake.yml` to your profile repository and enable GitHub Actions. The snake will auto-generate and update daily.
+
 
 ---
 
