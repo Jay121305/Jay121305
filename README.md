@@ -1,35 +1,52 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a2e,70:0d1b42,100:0d1117&height=220&section=header&text=Jay%20Gautam&fontSize=56&fontColor=a78bfa&animation=twinkling&fontAlignY=38&desc=AIML%20Intern%20%40%20eInfochips%20%E2%80%A2%20Builder%20%E2%80%A2%20Final-Year%20CSE%20Scholar&descAlignY=60&descSize=17&descColor=6bbdff" width="100%"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:36BCF7&height=120&section=header&animation=fadeIn" width="100%"/>
+<br>
 
-# Jay Gautam
-
-<p>
+<div align="center">
   <a href="https://github.com/Jay121305">
-    <img src="https://komarev.com/ghpvc/?username=Jay121305&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile Views"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=870&lines=🚀+AIML+Intern+%40+eInfochips+(An+Arrow+Company);⚡+Production-Grade+ML+%26+Full-Stack+Engineer;🏆+National+Hackathon+Finalist+%E2%80%A2+Multiple+Podium+Finishes;📄+2+Research+Papers+Published+%E2%80%A2+1+Patent+Granted;🎓+Capstone+Scholar+%40+VIT+Pune+%E2%80%A2+Class+of+2027;🔨+Build+with+impact.+Ship+with+intent." alt="Typing SVG"/>
   </a>
-  &nbsp;
-  <a href="https://github.com/Jay121305?tab=followers">
-    <img src="https://img.shields.io/github/followers/Jay121305?style=for-the-badge&color=36BCF7&labelColor=0d1117&label=FOLLOWERS" alt="Followers"/>
-  </a>
-</p>
+</div>
 
-**`Engineering Student @ VIT Pune  ·  Builder  ·  Mobile & ML Systems`**
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=I+build+deployable%2C+production-grade+systems.;Flutter+%7C+ML+Pipelines+%7C+Backend+%7C+Scalable+Design.;2+Research+Papers+Published+%7C+1+Patent+Granted.;Hackathon+Warrior.+Rapid+Prototyper.+Shipping+with+Intent." alt="Typing SVG"/>
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Jay121305&style=for-the-badge&color=a78bfa&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/Jay121305)
+&nbsp;&nbsp;
+[![Followers](https://img.shields.io/github/followers/Jay121305?style=for-the-badge&color=a78bfa&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Jay121305?tab=followers)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-a78bfa?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://jay121305.github.io/portfolio-2/)
 
 </div>
 
 ---
 
-## 🧠 Who Am I
+## ⚡ Currently
 
-- 🎓 **CSE Undergraduate** @ VIT Pune
-- 🛠️ Building **cross-platform apps**, ML pipelines & backend systems
-- 🚀 Competed in **national-level hackathons** & scaled academic projects to production
-- 💡 Passionate about **production engineering** and scalable product design
-- 📄 **2 Research Papers Published** in peer-reviewed journals
-- ⚖️ **1 Patent Granted** — turning research into protected innovation
+```yaml
+💼  Role       :  AIML Intern @ eInfochips (An Arrow Company)
+🎓  Education  :  Capstone Year · B.Tech CSE · Vishwakarma Institute of Technology, Pune · Class of 2027
+🔨  Building   :  Stealth offline AI interview assistant  [ Whisper · Ollama · PyQt · Windows ]
+📍  Location   :  Pune, Maharashtra, India
+🎯  Goal       :  AI/ML & SWE full-time roles · 2027
+📄  Research   :  2 Peer-Reviewed Papers Published · 1 Patent Granted
+```
+
+---
+
+## 🧠 Who I Am
+
+- 💼 **AIML Intern** @ [eInfochips (An Arrow Company)](https://github.com/eInfochips) — building intelligent, production-grade ML systems
+- 🎓 **Capstone Scholar** — B.Tech CSE at Vishwakarma Institute of Technology, Pune · Class of 2027
+- 🛠️ Crafting **ML pipelines**, **cross-platform mobile apps**, and **scalable backend systems** that ship to production
+- 🏆 **National Hackathon Finalist** — SIH, InnerveX, NEST 2, Bajaj HackRX 6, Hack for Bharat, Project Morpheus & more
+- 💡 Every project ships with **real, quantifiable metrics** — no vanity engineering
+- 📄 **2 Research Papers** published in peer-reviewed international journals
+- ⚖️ **1 Patent Granted** — IoT-based Waste Fire Detection & Pollution Mapping System
+- 🌐 **Technical Lead** @ VishwaShauryam, VIT Pune — 800+ monthly visitors · 35% event registration uplift
 
 ---
 
@@ -38,39 +55,22 @@
 <div align="center">
 
 ### ⌨️ Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,dart,html,css&theme=dark)](https://skillicons.dev)
 
-### ⚙️ Frameworks & Runtimes
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### ⚙️ Frameworks & Libraries
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,flutter,fastapi,spring,tensorflow,pytorch&theme=dark)](https://skillicons.dev)
 
-### 🤖 ML / AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+### 🗄️ Databases · Cloud · DevOps
+[![Tools](https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,redis,aws,docker,git,linux,vscode&theme=dark)](https://skillicons.dev)
 
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+</div>
 
-### 🔧 DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jay121305&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -79,14 +79,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jay121305&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&rank_icon=github" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay121305&theme=tokyonight&hide_border=true&background=0d1117&stroke=36BCF7&ring=36BCF7&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=c9d1d9" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jay121305&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=36BCF7&text_color=c9d1d9&rank_icon=github" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay121305&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" width="49%" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay121305&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9&langs_count=10&count_private=true" width="49%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay121305&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10&count_private=true" width="49%" alt="Top Languages"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jay121305&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Time"/>
 
 </div>
@@ -100,19 +100,19 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay121305&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ff6b6b&area=true&area_color=36BCF7" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jay121305&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=36BCF7&point=ff6b6b&area=true&area_color=a78bfa" width="98%" alt="Contribution Graph"/>
 </div>
 
 ---
 
-## 🔨 Currently Building
+## 🚀 Flagship Projects
 
 <div align="center">
 
 | 🏙️ Urban Intelligence | 🏥 Healthcare | 💰 FinTech |
 |:---:|:---:|:---:|
-| [![MindTheGap](https://github-readme-stats.vercel.app/api/pin/?username=Jay121305&repo=MindTheGap-Urban_CrowdSense&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9)](https://github.com/Jay121305/MindTheGap-Urban_CrowdSense) | [![Migrant Health](https://github-readme-stats.vercel.app/api/pin/?username=Jay121305&repo=Migrant-Health-Management&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9)](https://github.com/Jay121305/Migrant-Health-Management) | [![ScamShield](https://github-readme-stats.vercel.app/api/pin/?username=Jay121305&repo=ScamSheield-Railway-Service&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9)](https://github.com/Jay121305/ScamSheield-Railway-Service) |
-| Real-time crowd density & urban issue detection | Cross-platform healthcare management for migrants | Railway service protection & scam validation |
+| [![MindTheGap](https://github-readme-stats.vercel.app/api/pin/?username=Jay121305&repo=MindTheGap-Urban_CrowdSense&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=36BCF7&text_color=c9d1d9)](https://github.com/Jay121305/MindTheGap-Urban_CrowdSense) | [![Sahaj](https://github-readme-stats.vercel.app/api/pin/?username=Jay121305&repo=Sahaj&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=36BCF7&text_color=c9d1d9)](https://github.com/Jay121305/Sahaj) | [![OpenCredit](https://github-readme-stats.vercel.app/api/pin/?username=Jay121305&repo=OpenCredit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=36BCF7&text_color=c9d1d9)](https://github.com/Jay121305/OpenCredit) |
+| Real-time crowd density & civic issue detection | Cross-platform healthcare management for migrants | Production fintech API · Isolation Forest fraud detection · 85% test coverage |
 
 </div>
 
@@ -128,17 +128,18 @@
   </picture>
 </div>
 
-
-
 ---
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-gautam)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=36BCF7)](https://jay121305.github.io/portfolio-2/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaygaautam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-gautam/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=a78bfa)](https://jay121305.github.io/portfolio-2/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaygaautam@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jay121305)
 
 </div>
@@ -149,8 +150,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%" alt="Dev Quote"/>
 </div>
 
+<br>
+
 <div align="center">
-  <i>"Build with impact. Ship with intent."</i>
+  <b><i>"Build with impact. Ship with intent."</i></b>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:1a1f35,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d1b42,70:1a0a2e,100:0d1117&height=130&section=footer&animation=twinkling" width="100%"/>
