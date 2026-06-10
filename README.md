@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/Jay121305">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=870&lines=🚀+AIML+Intern+%40+eInfochips+(An+Arrow+Company);⚡+Production-Grade+ML+%26+Full-Stack+Engineer;🏆+National+Hackathon+Finalist+%E2%80%A2+Multiple+Podium+Finishes;📄+2+Research+Papers+Published+%E2%80%A2+1+Patent+Granted;🎓+Capstone+Scholar+%40+VIT+Pune+%E2%80%A2+Class+of+2027;🔨+Build+with+impact.+Ship+with+intent." alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=860&lines=AIML+Intern+%40+eInfochips+(An+Arrow+Company);Production-Grade+ML+%26+Full-Stack+Engineer;National+Hackathon+Finalist+%7C+Multiple+Podium+Finishes;2+Research+Papers+%7C+1+Patent+%7C+Building+in+Public;Capstone+Scholar+%40+VIT+Pune+%7C+Class+of+2027;Build+with+impact.+Ship+with+intent." alt=""/>
   </a>
 </div>
 
@@ -115,7 +115,7 @@
 ### 🏙️ Urban Intelligence
 
 <a href="https://github.com/Jay121305/MindTheGap-Urban_CrowdSense">
-  <img src="https://github.com/Jay121305/Jay121305/blob/main/urban-crowd-sense.png" width="88%" alt="MindTheGap Urban CrowdSense"/>
+  <img src="https://raw.githubusercontent.com/Jay121305/Jay121305/main/assets/urban-crowd-sense.png" width="88%" alt="MindTheGap Urban CrowdSense"/>
 </a>
 
 **MindTheGap Urban CrowdSense** — Real-time crowd density & civic issue geo-tagging
@@ -143,7 +143,7 @@
 ### 🏥 Healthcare
 
 <a href="https://github.com/Jay121305/Sahaj">
-  <img src="https://github.com/Jay121305/Jay121305/blob/main/sahaj.png" width="88%" alt="Sahaj"/>
+  <img src="https://raw.githubusercontent.com/Jay121305/Jay121305/main/assets/sahaj.png" width="88%" alt="Sahaj"/>
 </a>
 
 **Sahaj** — Simple mental wellbeing platform with mood analytics & peer support
@@ -169,7 +169,7 @@
 ### 💰 FinTech
 
 <a href="https://github.com/Jay121305/OpenCredit">
-  <img src="https://github.com/Jay121305/Jay121305/blob/main/opencredit.png" width="88%" alt="OpenCredit"/>
+  <img src="https://raw.githubusercontent.com/Jay121305/Jay121305/main/assets/opencredit.png" width="88%" alt="OpenCredit"/>
 </a>
 
 **OpenCredit** — Production-grade transparent credit scoring & fintech REST API
