@@ -115,7 +115,7 @@
 ### 🏙️ Urban Intelligence
 
 <a href="https://github.com/Jay121305/MindTheGap-Urban_CrowdSense">
-  <img src="https://raw.githubusercontent.com/Jay121305/Jay121305/main/assets/urban-crowd-sense.png" width="88%" alt="MindTheGap Urban CrowdSense"/>
+  <img src="https://github.com/Jay121305/Jay121305/blob/main/urban-crowd-sense.png" width="88%" alt="MindTheGap Urban CrowdSense"/>
 </a>
 
 **MindTheGap Urban CrowdSense** — Real-time crowd density & civic issue geo-tagging
@@ -143,7 +143,7 @@
 ### 🏥 Healthcare
 
 <a href="https://github.com/Jay121305/Sahaj">
-  <img src="https://raw.githubusercontent.com/Jay121305/Jay121305/main/assets/sahaj.png" width="88%" alt="Sahaj"/>
+  <img src="https://github.com/Jay121305/Jay121305/blob/main/sahaj.png" width="88%" alt="Sahaj"/>
 </a>
 
 **Sahaj** — Simple mental wellbeing platform with mood analytics & peer support
@@ -169,7 +169,7 @@
 ### 💰 FinTech
 
 <a href="https://github.com/Jay121305/OpenCredit">
-  <img src="https://raw.githubusercontent.com/Jay121305/Jay121305/main/assets/opencredit.png" width="88%" alt="OpenCredit"/>
+  <img src="https://github.com/Jay121305/Jay121305/blob/main/opencredit.png" width="88%" alt="OpenCredit"/>
 </a>
 
 **OpenCredit** — Production-grade transparent credit scoring & fintech REST API
