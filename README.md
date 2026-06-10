@@ -39,7 +39,7 @@
 
 ## 🧠 Who I Am
 
-- 💼 **AIML Intern** @ [eInfochips (An Arrow Company)](https://github.com/ArrowElectronics) — building intelligent, production-grade ML systems
+- 💼 **AIML Intern** @ [eInfochips (An Arrow Company)](https://github.com/eInfochips) — building intelligent, production-grade ML systems
 - 🎓 **Capstone Scholar** — B.Tech CSE at Vishwakarma Institute of Technology, Pune · Class of 2027
 - 🛠️ Crafting **ML pipelines**, **cross-platform mobile apps**, and **scalable backend systems** that ship to production
 - 🏆 **National Hackathon Finalist** — SIH, InnerveX, NEST 2, Bajaj HackRX 6, Hack for Bharat, Project Morpheus & more
@@ -79,20 +79,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jay121305&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=36BCF7&text_color=c9d1d9&rank_icon=github" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jay121305&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" width="49%" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jay121305&theme=tokyonight" width="32%" alt=""/>
+<img src="https://streak-stats.demolab.com/?user=Jay121305&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" width="34%" alt=""/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jay121305&theme=tokyonight" width="32%" alt=""/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay121305&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=10&count_private=true" width="49%" alt="Top Languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jay121305&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jay121305&theme=tokyonight" width="49%" alt=""/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jay121305&theme=tokyonight&utcOffset=5.5" width="49%" alt=""/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay121305&theme=tokyonight" width="98%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay121305&theme=tokyonight" width="98%" alt=""/>
 </div>
 
 ---
@@ -107,26 +108,125 @@
 
 ## 🚀 Flagship Projects
 
+<br>
+
 <div align="center">
 
-| 🏙️ Urban Intelligence | 🏥 Healthcare | 💰 FinTech |
-|:---:|:---:|:---:|
-| [![MindTheGap](https://github-readme-stats.vercel.app/api/pin/?username=Jay121305&repo=MindTheGap-Urban_CrowdSense&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=36BCF7&text_color=c9d1d9)](https://github.com/Jay121305/MindTheGap-Urban_CrowdSense) | [![Sahaj](https://github-readme-stats.vercel.app/api/pin/?username=Jay121305&repo=Sahaj&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=36BCF7&text_color=c9d1d9)](https://github.com/Jay121305/Sahaj) | [![OpenCredit](https://github-readme-stats.vercel.app/api/pin/?username=Jay121305&repo=OpenCredit&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=36BCF7&text_color=c9d1d9)](https://github.com/Jay121305/OpenCredit) |
-| Real-time crowd density & civic issue detection | Cross-platform healthcare management for migrants | Production fintech API · Isolation Forest fraud detection · 85% test coverage |
+### 🏙️ Urban Intelligence
+
+<a href="https://github.com/Jay121305/MindTheGap-Urban_CrowdSense">
+  <img src="https://github.com/Jay121305/Jay121305/blob/main/urban-crowd-sense.png" width="88%" alt="MindTheGap Urban CrowdSense"/>
+</a>
+
+**MindTheGap Urban CrowdSense** — Real-time crowd density & civic issue geo-tagging
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+
+> 1,432 geo-tagged reports · 27.8% resolution time reduction · Real-time analytics dashboard
+
+[![View Repo](https://img.shields.io/badge/⭐%20View%20Repo-MindTheGap-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Jay121305/MindTheGap-Urban_CrowdSense)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### 🏥 Healthcare
+
+<a href="https://github.com/Jay121305/Sahaj">
+  <img src="https://github.com/Jay121305/Jay121305/blob/main/sahaj.png" width="88%" alt="Sahaj"/>
+</a>
+
+**Sahaj** — Simple mental wellbeing platform with mood analytics & peer support
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+> Mood tracker & anxiety alerts · Anonymous peer connect · Breathing & journaling tools
+
+[![View Repo](https://img.shields.io/badge/⭐%20View%20Repo-Sahaj-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Jay121305/Sahaj)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+### 💰 FinTech
+
+<a href="https://github.com/Jay121305/OpenCredit">
+  <img src="https://github.com/Jay121305/Jay121305/blob/main/opencredit.png" width="88%" alt="OpenCredit"/>
+</a>
+
+**OpenCredit** — Production-grade transparent credit scoring & fintech REST API
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+> 50+ endpoints · 4-tier RBAC · Isolation Forest fraud detection · SHA-256 audit ledger · 85% test coverage across 141 tests · [**Live Demo ↗**](https://opencredit-api-ivon.onrender.com)
+
+[![View Repo](https://img.shields.io/badge/⭐%20View%20Repo-OpenCredit-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Jay121305/OpenCredit)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🌐 3D Contribution Calendar
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jay121305/Jay121305/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jay121305/Jay121305/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Jay121305/Jay121305/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/Jay121305/Jay121305/main/profile-3d-contrib/profile-south-season-animate.svg" width="100%" alt=""/>
 </div>
+
+<details>
+<summary>⚙️ <b>One-time setup to activate this</b></summary>
+
+Create `.github/workflows/3d-contrib.yml` in your profile repo with this content:
+
+```yaml
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Jay121305
+      - name: Commit & Push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add -A .
+          git commit -m "generate 3d contribution calendar"
+          git push
+```
+
+Then go to **Actions → GitHub-Profile-3D-Contrib → Run workflow** to trigger it manually the first time.
+
+</details>
 
 ---
 
