@@ -39,7 +39,7 @@
 
 ## 🧠 Who I Am
 
-- 💼 **AIML Intern** @ [eInfochips (An Arrow Company)](https://github.com/eInfochips) — building intelligent, production-grade ML systems
+- 💼 **AIML Intern** @ [eInfochips (An Arrow Company)](https://github.com/ArrowElectronics/) — building intelligent, production-grade ML systems
 - 🎓 **Capstone Scholar** — B.Tech CSE at Vishwakarma Institute of Technology, Pune · Class of 2027
 - 🛠️ Crafting **ML pipelines**, **cross-platform mobile apps**, and **scalable backend systems** that ship to production
 - 🏆 **National Hackathon Finalist** — SIH, InnerveX, NEST 2, Bajaj HackRX 6, Hack for Bharat, Project Morpheus & more
