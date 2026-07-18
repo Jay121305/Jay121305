@@ -189,7 +189,7 @@
 ## 🌐 3D Contribution Calendar
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Jay121305/Jay121305/main/profile-3d-contrib/profile-south-season-animate.svg" width="100%" alt=""/>
+  <img src="https://raw.githubusercontent.com/Jay121305/Jay121305/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar"/>
 </div>
 
 <details>
