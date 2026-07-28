@@ -27,7 +27,7 @@
 ## ⚡ Currently
 
 ```yaml
-💼  Role       :  AIML Intern @ eInfochips (An Arrow Company)
+💼  Role       :  Intern @ eInfochips (An Arrow Company)
 🎓  Education  :  Capstone Year · B.Tech CSE · Vishwakarma Institute of Technology, Pune · Class of 2027
 🔨  Building   :  Stealth offline AI interview assistant  [ Whisper · Ollama · PyQt · Windows ]
 📍  Location   :  Pune, Maharashtra, India
