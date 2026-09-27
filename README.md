@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a2e,70:0d1b42,100:0d1117&height=220&section=header&text=Jay%20Gautam&fontSize=56&fontColor=a78bfa&animation=twinkling&fontAlignY=38&desc=AIML%20Intern%20%40%20eInfochips%20%E2%80%A2%20Builder%20%E2%80%A2%20Final-Year%20CSE%20Scholar&descAlignY=60&descSize=17&descColor=6bbdff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a2e,70:0d1b42,100:0d1117&height=220&section=header&text=Jay%20Gautam&fontSize=56&fontColor=a78bfa&animation=twinkling&fontAlignY=38&desc=Data%20Intern%20%40%20eInfochips%20%E2%80%A2%20Builder%20%E2%80%A2%20Final-Year%20CSE%20Scholar&descAlignY=60&descSize=17&descColor=6bbdff" width="100%"/>
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/Jay121305">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=860&lines=AIML+Intern+%40+eInfochips+(An+Arrow+Company);Production-Grade+ML+%26+Full-Stack+Engineer;National+Hackathon+Finalist+%7C+Multiple+Podium+Finishes;2+Research+Papers+%7C+1+Patent+%7C+Building+in+Public;Capstone+Scholar+%40+VIT+Pune+%7C+Class+of+2027;Build+with+impact.+Ship+with+intent." alt=""/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=A78BFA&center=true&vCenter=true&width=860&lines=Data+Intern+%40+eInfochips+(An+Arrow+Company);Production-Grade+ML+%26+Full-Stack+Engineer;National+Hackathon+Finalist+%7C+Multiple+Podium+Finishes;2+Research+Papers+%7C+1+Patent+%7C+Building+in+Public;Capstone+Scholar+%40+VIT+Pune+%7C+Class+of+2027;Build+with+impact.+Ship+with+intent." alt=""/>
   </a>
 </div>
 
@@ -27,7 +27,7 @@
 ## ⚡ Currently
 
 ```yaml
-💼  Role       :  Intern @ eInfochips (An Arrow Company)
+💼  Role       :  Data Intern @ eInfochips (An Arrow Company)
 🎓  Education  :  Capstone Year · B.Tech CSE · Vishwakarma Institute of Technology, Pune · Class of 2027
 🔨  Building   :  Stealth offline AI interview assistant  [ Whisper · Ollama · PyQt · Windows ]
 📍  Location   :  Pune, Maharashtra, India
@@ -39,7 +39,7 @@
 
 ## 🧠 Who I Am
 
-- 💼 **AIML Intern** @ [eInfochips (An Arrow Company)](https://github.com/ArrowElectronics/) — building intelligent, production-grade ML systems
+- 💼 **Data Intern** @ [eInfochips (An Arrow Company)](https://github.com/ArrowElectronics/) — building intelligent, production-grade ML systems
 - 🎓 **Capstone Scholar** — B.Tech CSE at Vishwakarma Institute of Technology, Pune · Class of 2027
 - 🛠️ Crafting **ML pipelines**, **cross-platform mobile apps**, and **scalable backend systems** that ship to production
 - 🏆 **National Hackathon Finalist** — SIH, InnerveX, NEST 2, Bajaj HackRX 6, Hack for Bharat, Project Morpheus & more
